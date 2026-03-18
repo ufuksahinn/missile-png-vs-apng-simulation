@@ -22,7 +22,7 @@ PNG  →  AM = N · Vc · λ̇
 APNG →  AM = N · Vc · λ̇ + (N/2) · (ZEM / tgo²)
 ```
 
-ZEM (*Zero Effort Miss*): "Şu an hiç manevra yapmazsam ne kadar ısklarım?" sorusunun cevabı.
+ZEM (*Zero Effort Miss*): "Şu an hiç manevra yapmazsam ne kadar ıskalarım?" sorusunun cevabı.
 
 ---
 
