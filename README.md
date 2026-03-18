@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/26077085/README.md)
 # PNG vs APNG — 2D Missile Guidance Simulation
 
 Bu proje, iki farklı füze güdüm yöntemini — **PNG** (Proportional Navigation Guidance) ve **APNG** (Augmented PNG) — aynı senaryo üzerinde karşılaştıran bir MATLAB simülasyonudur.
@@ -64,13 +65,13 @@ ZEM (*Zero Effort Miss*): "Şu an hiç manevra yapmazsam ne kadar ısklarım?" s
 ## Grafikler
 
 ### 2B Uçuş Yörüngesi (3g)
-![Trajectory](width="1960" height="1039" alt="trajectory" src="https://github.com/user-attachments/assets/d173b9cd-02a9-4972-b077-95aa01186792" />)
+![Trajectory](figures/trajectory.png)
 
 ### Güdüm İvme Komutu (3g)
-![Acceleration](<img width="1942" height="1043" alt="acceleration" src="https://github.com/user-attachments/assets/ed05b2ec-f6fa-4590-88b0-9fb86ceae280" />)
+![Acceleration](figures/acceleration.png)
 
 ### Manevra Seviyesi Taraması (1g - 10g)
-![Sweep](<img width="1952" height="1039" alt="sweep" src="https://github.com/user-attachments/assets/8a16b61f-5b2c-4c66-84fa-2e422a822471" />)
+![Sweep](figures/sweep.png)
 
 ---
 
