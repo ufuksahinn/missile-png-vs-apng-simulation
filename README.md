@@ -64,13 +64,16 @@ ZEM (*Zero Effort Miss*): "Şu an hiç manevra yapmazsam ne kadar ısklarım?" s
 ## Grafikler
 
 ### 2B Uçuş Yörüngesi (3g)
-![Trajectory](figures/trajectory.png)
+![Trajectory](figures/traj<img width="1960" height="1039" alt="trajectory" src="https://github.com/user-attachments/assets/d173b9cd-02a9-4972-b077-95aa01186792" />
+ectory.png)
 
 ### Güdüm İvme Komutu (3g)
-![Acceleration](figures/acceleration.png)
+![Acceleration](figures/acce<img width="1942" height="1043" alt="acceleration" src="https://github.com/user-attachments/assets/ed05b2ec-f6fa-4590-88b0-9fb86ceae280" />
+leration.png)
 
 ### Manevra Seviyesi Taraması (1g - 10g)
-![Sweep](figures/sweep.png)
+![Sweep](figures/sweep.pn<img width="1952" height="1039" alt="sweep" src="https://github.com/user-attachments/assets/8a16b61f-5b2c-4c66-84fa-2e422a822471" />
+g)
 
 ---
 
